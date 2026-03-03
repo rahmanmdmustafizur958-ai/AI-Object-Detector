@@ -16,8 +16,13 @@ You can test this model yourself using your own webcam. No setup required:
 
 Here are screenshot of the AI identifying me with high confidence:
 
-<img width="459" height="657" alt="Screenshot 2026-02-07 213042" src="https://github.com/user-attachments/assets/bf2af803-ee23-4a57-a9db-90889125b856" />
-<img width="365" height="602" alt="Screenshot 2026-02-07 213136" src="https://github.com/user-attachments/assets/4397579c-a9d2-493c-9b9e-e4ba0449763b" />
+<img width="370" height="717" alt="image" src="https://github.com/user-attachments/assets/4be3b316-276f-4dde-8c8b-11f8af9f185f" />
+<img width="369" height="710" alt="image" src="https://github.com/user-attachments/assets/4e76ed6a-6135-4ac0-b042-3d796be2287c" />
+<img width="376" height="707" alt="image" src="https://github.com/user-attachments/assets/53935838-6677-4574-9262-8b25847d4080" />
+<img width="373" height="708" alt="image" src="https://github.com/user-attachments/assets/c4dee500-f8a4-4a33-9121-410c6fa97360" />
+
+
+
 
 
 ## 🧠 How it Works
